@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barisdeveli/)](https://www.linkedin.com/in/barisdeveli/)
 
 - 🔭 I’m currently working on be better every day 
-- 🌱 I’m currently learning Flutter development
+- 🌱 I’m currently learning Javascript/Node.js
 - 👯 I’m looking to collaborate on good projects 
 - 📫 How to reach me: barisdeveli48@gmail.com
 
